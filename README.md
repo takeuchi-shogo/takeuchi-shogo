@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takeuchi-shogo&show_icons=true&theme=transparent)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takeuchi-shogo)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeuchi-shogo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
